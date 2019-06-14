@@ -14,3 +14,7 @@ var MessagesFromServer = [ChatModel]()
 # // reload list model, simply passing array of chat model
 objcChatListModel.reloadTableWithShorting(arrMessage: MessagesFromServer)
 ```
+
+# Screenshot
+
+![Screenshot](Chat/Resource/screen.jpg) ![Screenshot](Chat/Resource/screen.gif)
